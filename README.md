@@ -80,7 +80,7 @@ streamlit run app.py
 
 Your browser will open automatically at:
 
-http://localhost:8501
+[http://localhost:8501](http://localhost:8501/)
 
 📁 Project Layout
 ├── app.py                      → Main application
