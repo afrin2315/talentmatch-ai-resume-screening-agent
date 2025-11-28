@@ -1,0 +1,22 @@
+Job Title: Junior Data Analyst
+
+Responsibilities:
+- Analyze datasets and generate insights.
+- Build dashboards and reports.
+- Collaborate with cross-functional teams.
+- Clean and prepare raw data.
+
+Required Skills:
+- Python
+- SQL
+- Data Visualization
+- Pandas / NumPy
+- Machine Learning basics
+- Communication Skills
+
+Preferred:
+- Experience with Streamlit or Power BI
+- Knowledge of statistical concepts
+
+Keywords:
+Python, SQL, Data Analysis, Data Cleaning, Pandas, NumPy, Reporting, ML Basics

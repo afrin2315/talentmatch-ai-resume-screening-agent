@@ -1,0 +1,19 @@
+streamlit → required for UI
+
+openai → API calls
+
+pdfplumber → read resume PDF text
+
+pillow → image handling (Streamlit dependency)
+
+python-dotenv → optional but safe for env vars
+
+tiktoken → OpenAI tokenization
+
+pandas → used in some advanced features
+
+reportlab → PDF support
+
+matplotlib → rendering charts (if needed)
+
+openpyxl → Excel support
